@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.c47e610a.chunk.css",
-    "main.js": "/static/js/main.439dc411.chunk.js",
-    "main.js.map": "/static/js/main.439dc411.chunk.js.map",
+    "main.css": "/static/css/main.1172bfb6.chunk.css",
+    "main.js": "/static/js/main.fc3762b5.chunk.js",
+    "main.js.map": "/static/js/main.fc3762b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5172e516.js",
     "runtime-main.js.map": "/static/js/runtime-main.5172e516.js.map",
-    "static/js/2.ae021ec9.chunk.js": "/static/js/2.ae021ec9.chunk.js",
-    "static/js/2.ae021ec9.chunk.js.map": "/static/js/2.ae021ec9.chunk.js.map",
+    "static/js/2.74c20312.chunk.js": "/static/js/2.74c20312.chunk.js",
+    "static/js/2.74c20312.chunk.js.map": "/static/js/2.74c20312.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.138a815d3450f101a3aafeb7a51913f8.js": "/precache-manifest.138a815d3450f101a3aafeb7a51913f8.js",
+    "precache-manifest.dbb7e352023a1817e45a01aa26e507f3.js": "/precache-manifest.dbb7e352023a1817e45a01aa26e507f3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c47e610a.chunk.css.map": "/static/css/main.c47e610a.chunk.css.map",
-    "static/js/2.ae021ec9.chunk.js.LICENSE": "/static/js/2.ae021ec9.chunk.js.LICENSE",
+    "static/css/main.1172bfb6.chunk.css.map": "/static/css/main.1172bfb6.chunk.css.map",
+    "static/js/2.74c20312.chunk.js.LICENSE": "/static/js/2.74c20312.chunk.js.LICENSE",
     "static/media/shopping-cart-add.png": "/static/media/shopping-cart-add.8e2e6020.png",
     "static/media/shopping-cart-remove.png": "/static/media/shopping-cart-remove.c226c095.png",
     "static/media/shopping-cart.png": "/static/media/shopping-cart.f031a3bc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5172e516.js",
-    "static/js/2.ae021ec9.chunk.js",
-    "static/css/main.c47e610a.chunk.css",
-    "static/js/main.439dc411.chunk.js"
+    "static/js/2.74c20312.chunk.js",
+    "static/css/main.1172bfb6.chunk.css",
+    "static/js/main.fc3762b5.chunk.js"
   ]
 }
